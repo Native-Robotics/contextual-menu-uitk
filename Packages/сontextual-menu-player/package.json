@@ -1,0 +1,20 @@
+{
+  "name": "com.sahasrara.contextual-menu-player",
+  "version": "1.0.0",
+  "displayName": "Contextual menu player",
+  "description": "",
+  "keywords": [
+    "Unity",
+    "Runtime",
+    "Context",
+    "Menu",
+    "UI Toolkit"
+  ],
+  "homepage": "https://github.com/Native-Robotics/RuntimeTransformHandle",
+  "author": {
+    "name": "Eric Fulton"
+  },
+  "license": "BSD-3",
+  "unity": "2021.3",
+  "dependencies": {}
+}

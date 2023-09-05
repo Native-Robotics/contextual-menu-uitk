@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.sahasrara.contextual-menu-player": {
+      "version": "file:сontextual-menu-player",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "2.0.7",
       "depth": 0,
